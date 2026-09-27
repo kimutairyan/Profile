@@ -43,11 +43,11 @@ I’m a developer focused on building practical software solutions, exploring mo
 
 I believe consistent development is built through regular practice, experimentation, and shipping projects.
 
-![GitHub contribution graph](https://ghchart.rshah.org/409ba5/YOUR_USERNAME)
+![GitHub contribution graph](https://ghchart.rshah.org/409ba5/kimutaityan)
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://github.com/kimutairyan)
 
 ## 📊 GitHub Statistics
 
@@ -95,7 +95,7 @@ System Design
 
 ## 📫 Connect
 
-[GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/kimutairyan) • [LinkedIn](www.linkedin.com/in/ryan-kimutai-3bbb9243a)
 
 ---
 
